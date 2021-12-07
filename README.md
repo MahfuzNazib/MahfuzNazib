@@ -1,6 +1,6 @@
-## Mahfuz Nazib 👋
+## Hi 👋, I am Nazib
 
-
+![](https://komarev.com/ghpvc/?username=MahfuzNazib)
 **MahfuzNazib/MahfuzNazib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
