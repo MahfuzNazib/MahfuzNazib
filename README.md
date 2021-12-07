@@ -3,9 +3,7 @@
 I am Nazib Mahfuz better known as Nazib. I am professional Software Developer from Bangladesh. I am very much passionate about computer technology & programming. 
 I love to spent my time to solve programming problem and build awsome featured softweare which has more business value.
 
-<br>
 ![](https://komarev.com/ghpvc/?username=MahfuzNazib)
-**MahfuzNazib/MahfuzNazib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
